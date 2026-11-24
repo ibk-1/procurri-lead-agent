@@ -1,0 +1,14 @@
+{
+  "name": "it-lead-agent",
+  "description": "Independent student proposal: a Claude plugin for weekly B2B lead research for an IT asset lifecycle company in DACH.",
+  "owner": {
+    "name": "Ibrahim Kalil"
+  },
+  "plugins": [
+    {
+      "name": "it-lead-agent",
+      "source": "./",
+      "description": "Weekly B2B lead research for IT hardware sales in DACH, with LinkedIn note drafts. Never sends anything."
+    }
+  ]
+}

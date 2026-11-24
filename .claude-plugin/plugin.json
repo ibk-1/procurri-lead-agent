@@ -1,0 +1,16 @@
+{
+  "name": "it-lead-agent",
+  "version": "0.2.0",
+  "description": "Weekly B2B lead research for IT hardware sales in DACH: finds companies with a dated signal that they will sell or buy enterprise IT hardware, explains the fit, and drafts a LinkedIn note. Never sends anything and never touches LinkedIn.",
+  "author": {
+    "name": "Ibrahim Kalil"
+  },
+  "repository": "https://github.com/ibk-1/it-lead-agent",
+  "keywords": [
+    "sales",
+    "lead-generation",
+    "b2b",
+    "itad",
+    "dach"
+  ]
+}
